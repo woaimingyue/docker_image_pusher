@@ -8,3 +8,4 @@ kasmweb/nginx:1.25.3
 mysql:5.7.42
 php:7.4.33
 redis:7.2-alpine
+nginx:1.19.1-alpine
