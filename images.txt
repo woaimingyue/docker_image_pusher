@@ -3,9 +3,8 @@ opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-alpine
-kasmweb/nginx:1.25.3
+#alpine
 mysql:5.7.42
-php:7.4.33
+php:7.4.33-fpm-alpine
 redis:7.2-alpine
 nginx:1.19.1-alpine
